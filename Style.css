@@ -1,0 +1,24 @@
+html {
+    text-align: center; 
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.submission {
+    font-size: 120%;
+}
+
+#city {
+    font-weight: 800;
+    background-color: lightcyan;
+}
+
+#outputUnit tr:nth-child(n/2) {
+    background: #E0FFFF;
+}
+
+#outputUnit tr:nth-child((n/2)-1) {
+    background: #F5DEB3;
+}
